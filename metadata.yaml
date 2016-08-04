@@ -1,0 +1,30 @@
+_repo: My-Lady-Caprice_2025
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnol, Jeffery
+    aliases:
+    - Farnol, Jack
+    - Farnol, John Jeffery
+    - Farnol, Jeffrey
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '789'
+    url: http://www.gutenberg.org/2009/agents/789
+    wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
+description: 'Original title: Chronicles of the imp'
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: My Lady Caprice
+url: http://www.gutenberg.org/ebooks/2025
